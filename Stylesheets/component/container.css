@@ -1,0 +1,30 @@
+.container{
+    width: 1192px;
+    margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.flex{
+    display: flex;
+}
+
+.aic{
+    align-items: center;
+}

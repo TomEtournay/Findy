@@ -1,0 +1,58 @@
+h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 4.5rem;
+    font-weight: 700;
+    line-height: 72px; /* 100% */
+}
+
+h2{
+    color: #FFF;
+    text-align: center;
+    font-size: 1.25rem;
+    line-height: normal;
+    font-weight: 400;
+}
+
+h3{
+    color: #151528;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h4{
+    color: #151528;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h5{
+    color: #EC9B3D;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 24px; /* 120% */
+}
+
+strong{
+    font-weight: 700;
+}
+
+
+#logo{
+    color: #FFF;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.text-categorie{
+    color: #FFF;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: normal;
+}
