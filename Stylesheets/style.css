@@ -158,27 +158,27 @@ nav{
 
 
 #Ressource-Livre{
-    background-image: url(/Images/Livre.png);
+    background-image: url(Images/Livre.png);
 }
 
 #Ressource-Film{
-    background-image: url(/Images/Film.png);  
+    background-image: url(Images/Film.png);  
 }
 
 #Ressource-Serie{
-    background-image: url(/Images/Serie.png);
+    background-image: url(Images/Serie.png);
 }
 
 #Ressource-SiteWeb{
-    background-image: url(/Images/Site.png);
+    background-image: url(Images/Site.png);
 }
 
 #Ressource-AppWeb{
-    background-image: url(/Images/AppWeb.png);
+    background-image: url(Images/AppWeb.png);
 }
 
 #Ressource-AppMobile{
-    background-image: url(/Images/AppMobile.png);
+    background-image: url(Images/AppMobile.png);
 }
 
 #Wrapper-Ressource{
